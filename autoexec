@@ -1,0 +1,11 @@
+alias "+ju" "+jump";
+alias "+ja" "-attack; -attack2";
+alias "+jum" "-jump";
+alias "+wthrow" "+forward;+jump;";
+alias "-wthrow" "-jump;-forward";
+bind "MOUSE4" "+wthrow; +ja";
+alias "+j" "+jump";
+alias "-j" "-jump";
+bind "mwheeldown" "+j; -j";
+bind "mwheelup" "+j; -j";
+
